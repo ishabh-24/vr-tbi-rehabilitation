@@ -77,6 +77,7 @@ The Github repository contains the keyboard-controlled version for testing and d
 - Laboratory: Movement Control and Rehabilitation Laboratory at Stevens Institute of Technology
 - Website: [MOCORE Lab Website](https://mocorelab.com/virtual_reality.html)
 
-
-
-
+---
+## **Notes**
+- Ensure that large Unity-generated folders like Library/ and Temp/ are excluded from GitHub.
+- This repository is intended for research and rehabilitation purposes and should be used under guidance of a trained professional.
