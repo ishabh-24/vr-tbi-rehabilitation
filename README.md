@@ -59,7 +59,7 @@ open -a "Unity Hub" .
 ```
 3. Play the scenes using keyboard controls
 
---
+---
 ## **Effectiveness & Demos**
 
 This game is designed to be effective for rehabilitation in virtual reality, providing immersive environments that enhance motor recovery, cognitive engagement, and patient motivation.
@@ -70,7 +70,7 @@ This game is designed to be effective for rehabilitation in virtual reality, pro
 ### **Keyboard Version (Github)**
 The Github repository contains the keyboard-controlled version for testing and development.
 
--- 
+--- 
 
 ## **Credits**
 - Mentors: Dr. Nataraj & Sophie Dewil
