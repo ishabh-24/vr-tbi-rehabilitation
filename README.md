@@ -68,7 +68,8 @@ This game is designed to be effective for rehabilitation in virtual reality, pro
 [Watch VR demo video](https://drive.google.com/file/d/1sA-b3Fk-rr2puxRtPHRybweDRBW6T2UE/view?usp=sharing)
 
 ### **Keyboard Version (Github)**
-The Github repository contains the keyboard-controlled version for testing and development
+The Github repository contains the keyboard-controlled version for testing and development.
+
 -- 
 
 ## **Credits**
