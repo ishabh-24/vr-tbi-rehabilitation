@@ -69,6 +69,9 @@ This game is designed to be effective for rehabilitation in virtual reality, pro
 
 ### **Keyboard Version (Github)**
 The Github repository contains the keyboard-controlled version for testing and development.
+- [Level 1 Demo](https://drive.google.com/file/d/1es0VeL25XUY4x2R7D2_fX5ncdm2-YvqZ/view?usp=sharing)
+- [Level 2 Demo](https://drive.google.com/file/d/1oE8woFiwwaZrYWVn6RwNo0Stpq8TRym0/view?usp=sharing)
+- [Level 3 Demo](https://drive.google.com/file/d/1jwKCIqazmSUW4RKoTfv5HcsNVKVIhamf/view?usp=sharing)
 
 --- 
 
